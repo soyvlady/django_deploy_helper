@@ -1,4 +1,4 @@
-# Deploy Django Helper
+# Django Deploy Helper
 
 El objetivo de este script es guiar al usuario en la configuracion de produccion de un proyecto con django.
 
